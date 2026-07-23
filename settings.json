@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AdarshNYKing_20-hVyv.aternos.me",
-    "port": 36899,
+    "ip": "solocloud.host",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
